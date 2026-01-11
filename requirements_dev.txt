@@ -7,7 +7,7 @@ matplotlib
 mlflow==2.2.2
 dvc
 ipykernel
-
+imblearn
 
 #dev requirements
 pytest==7.1.3
